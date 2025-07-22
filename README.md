@@ -1,7 +1,8 @@
 # Examination_System
 A simple console-based Java application that simulates an online examination system. It allows users to log in, answer multiple-choice questions, and receive a score based on their performance.
 
-Objective: 
+Objective:
+
 To create a simple Java-based console application that: 
 1. Accepts login credentials. 
 2. Presents multiple-choice questions. 
